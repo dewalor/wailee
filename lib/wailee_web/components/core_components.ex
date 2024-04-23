@@ -19,6 +19,16 @@ defmodule WaileeWeb.CoreComponents do
   alias Phoenix.LiveView.JS
   import WaileeWeb.Gettext
 
+  @slides [
+            %{
+              file_name: "bonnie.jpg",
+              alt: "hand-painted portrait of bonnie wailee kwong smiling with bright yellow background"
+            },
+            %{
+              file_name: "ravel.jpg",
+              alt: "book cover with the the title 'ravel', a faint endless knot symbol on torn, jagged gauze fabric against a black background"
+            }
+          ]
   @doc """
   Renders a modal.
 
@@ -174,6 +184,18 @@ defmodule WaileeWeb.CoreComponents do
       </.flash>
     </div>
     """
+  end
+
+  @doc """
+  Renders a slide show.
+  """
+
+  def slide_show() do
+    #%{file_name: file_name, alt: alt} <- @slides
+   # <img forsrc={"~p#{file_name}"} class="mx-auto" alt={alt}>
+   # <div :for={a <- @actions} class="mt-2 flex items-center justify-between gap-6">
+   #   <%= render_slot(action, f) %>
+   # </div>
   end
 
   @doc """

@@ -15,6 +15,19 @@ module.exports = {
     extend: {
       colors: {
         brand: "#FD4F00",
+      },
+      keyframes: {
+        inout: {
+          '0%': { opacity: '0', visibility: 'hidden'},
+          '39%': { opacity: '1', visibility: 'hidden'},
+          '40%': { opacity: '1', visibility: 'visible'},
+          '60%': { opacity: '1', visibility: 'visible'},
+          '59%': { opacity: '1', visibility: 'hidden'},
+          '100%': { opacity: '0', visibility: 'hidden'}
+        }
+      },
+      animation: {
+        'fade-in-out': 'inout 8s linear forwards'
       }
     },
   },
@@ -70,6 +83,16 @@ module.exports = {
           }
         }
       }, {values})
+    }),
+    plugin(function ({ matchUtilities, theme }) {
+      matchUtilities(
+        {
+          'animate-delay': (value) => ({
+            animationDelay: value,
+          }),
+        },
+        { values: theme('transitionDelay') }
+      )
     })
   ]
 }
