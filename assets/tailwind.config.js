@@ -24,10 +24,16 @@ module.exports = {
           '60%': { opacity: '1', visibility: 'visible', height: '419px'},
           '59%': { opacity: '1', visibility: 'hidden', height: '419px'},
           '100%': { opacity: '0', visibility: 'hidden', height: '0'}
+        },
+        in: {
+          '0%': { opacity: '0', visibility: 'hidden', height: '0'},  
+          '50%': { opacity: '0.5', visibility: 'visible', height: '210px'},
+          '100%': { opacity: '1', visibility: 'visible', height: '419px'}   
         }
       },
       animation: {
-        'fade-in-out': 'inout 8s linear forwards'
+        'fade-in-out': 'inout 8s linear forwards',
+        'fade-in': 'in 8s linear forwards'
       }
     },
   },
