@@ -19,7 +19,8 @@ module.exports = {
       keyframes: {
         inout: {//maybe set a negative margin until element is visible?
           '0%': { opacity: '0', visibility: 'hidden', height: '0'},
-          '39%': { opacity: '1', visibility: 'hidden', height: '419px'},
+          '20%': { opacity: '0.5', visibility: 'visible', height: '210px'},
+          '39%': { opacity: '1', visibility: 'visible', height: '419px'},
           '40%': { opacity: '1', visibility: 'visible', height: '419px'},
           '60%': { opacity: '1', visibility: 'visible', height: '419px'},
           '59%': { opacity: '1', visibility: 'hidden', height: '419px'},
@@ -33,7 +34,7 @@ module.exports = {
       },
       animation: {
         'fade-in-out': 'inout 8s linear forwards',
-        'fade-in': 'in 8s linear forwards'
+        'fade-in': 'in 4s linear forwards'
       }
     },
   },
