@@ -19,16 +19,6 @@ defmodule WaileeWeb.CoreComponents do
   alias Phoenix.LiveView.JS
   import WaileeWeb.Gettext
 
-  @slides [
-            %{
-              file_name: "bonnie.jpg",
-              alt: "hand-painted portrait of bonnie wailee kwong smiling with bright yellow background"
-            },
-            %{
-              file_name: "ravel.jpg",
-              alt: "book cover with the the title 'ravel', a faint endless knot symbol on torn, jagged gauze fabric against a black background"
-            }
-          ]
   @doc """
   Renders a modal.
 

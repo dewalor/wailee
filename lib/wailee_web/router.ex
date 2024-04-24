@@ -18,6 +18,7 @@ defmodule WaileeWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :home
+    get "/who", PageController, :who
 
     get "/blog", BlogController, :index
     get "/blog/:id", BlogController, :show
