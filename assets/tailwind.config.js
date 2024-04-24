@@ -17,13 +17,13 @@ module.exports = {
         brand: "#FD4F00",
       },
       keyframes: {
-        inout: {
-          '0%': { opacity: '0', visibility: 'hidden'},
-          '39%': { opacity: '1', visibility: 'hidden'},
-          '40%': { opacity: '1', visibility: 'visible'},
-          '60%': { opacity: '1', visibility: 'visible'},
-          '59%': { opacity: '1', visibility: 'hidden'},
-          '100%': { opacity: '0', visibility: 'hidden'}
+        inout: {//maybe set a negative margin until element is visible?
+          '0%': { opacity: '0', visibility: 'hidden', height: '0'},
+          '39%': { opacity: '1', visibility: 'hidden', height: '419px'},
+          '40%': { opacity: '1', visibility: 'visible', height: '419px'},
+          '60%': { opacity: '1', visibility: 'visible', height: '419px'},
+          '59%': { opacity: '1', visibility: 'hidden', height: '419px'},
+          '100%': { opacity: '0', visibility: 'hidden', height: '0'}
         }
       },
       animation: {

@@ -248,7 +248,7 @@ defmodule WaileeWeb.CoreComponents do
 
   slot :inner_block, required: true
 
-  def button(assigns) do
+  def button(%{} = assigns) do
     ~H"""
     <button
       type={@type}
