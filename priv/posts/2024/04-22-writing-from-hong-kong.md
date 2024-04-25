@@ -1,7 +1,7 @@
 %{
-  title: "Writing from Hong Kong",
+  title: "Writing Elixir from Hong Kong",
   author: "Bonnie Wai-Lee Kwong",
-  tags: ~w(bio),
+  tags: ~w(tech life),
   description: ""
 }
 ---

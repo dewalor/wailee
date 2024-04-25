@@ -12,4 +12,16 @@ defmodule WaileeWeb.PageController do
     # so skip the default app layout.
     render(conn, :who, layout: false)
   end
+
+  def art(conn, _params) do
+    # The who page is custom made,
+    # so skip the default app layout.
+    render(conn, :art, layout: false)
+  end
+
+  def events(conn, _params) do
+    # The who page is custom made,
+    # so skip the default app layout.
+    render(conn, :events, layout: false)
+  end
 end

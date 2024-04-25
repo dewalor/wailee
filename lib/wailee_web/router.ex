@@ -19,9 +19,10 @@ defmodule WaileeWeb.Router do
 
     get "/", PageController, :home
     get "/who", PageController, :who
-
     get "/blog", BlogController, :index
     get "/blog/:id", BlogController, :show
+    get "/art", PageController, :art
+    get "/events", PageController, :events
   end
 
   # Other scopes may use custom stacks.
