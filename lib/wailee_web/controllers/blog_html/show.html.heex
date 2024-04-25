@@ -1,13 +1,18 @@
-<.link href={~p"/blog"}>← All posts</.link>
+<div class="mb-4">
+<.link 
+  href={~p"/blog?tag=#{Enum.at(@post.tags, 0)}"}
+  >← Back to <span class="font-semibold"><%= Enum.at(@post.tags, 0) %> blog</span></.link>
+</div>  
+<h1 class="text-lg mb-4"><%= @post.title %></h1>
 
-<h1><%= @post.title %></h1>
+<div class="mb-4">
+  <time><%= @post.date %></time>
+</div>
 
-<p>
-  <time><%= @post.date %></time> by <%= @post.author %>
-</p>
 
-<p>
-  Tagged as <%= Enum.join(@post.tags, ", ") %>
-</p>
 
 <%= raw @post.body %>
+
+<div class="mt-8">
+  Tag(s): <%= Enum.join(@post.tags, ", ") %>
+</div>
