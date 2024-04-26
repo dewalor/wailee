@@ -1,19 +1,26 @@
-<h1>Listing posts</h1>
 
-<%= for post <- @posts do %>
-  <div id="{post.id}" style="margin-bottom: 3rem;">
-    <h2 class="font-semibold text-sky-700">
-      <.link href={~p"/blog/#{post.id}"}><%= post.title %></.link>
-    </h2>
+<div class="px-4 sm:px-6 lg:px-8 xl:px-28">
+  <div class="mx-auto lg:mx-0">
+      <div class= "text-sm font-medium text-zinc-500">
+<div class="mb-4"><h1>Posts List</h1></div>
 
-    <p>
-      <time><%= post.date %></time>
-    </p>
+    <%= for post <- @posts do %>
+      <div id="{post.id}" style="margin-bottom: 3rem;">
+        <h2 class="font-semibold text-sky-700">
+          <.link href={~p"/blog/#{post.id}"}><%= post.title %></.link>
+        </h2>
 
-    <p>
-      Tagged as <%= Enum.join(post.tags, ", ") %>
-    </p>
+        <p>
+          <time><%= post.date %></time>
+        </p>
 
-    <%= raw post.description %>
+        <p>
+          Tagged as <%= Enum.join(post.tags, ", ") %>
+        </p>
+
+        <%= raw post.description %>
+      </div>
+    <% end %>
+      </div>
   </div>
-<% end %>
+</div>
