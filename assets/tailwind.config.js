@@ -18,17 +18,19 @@ module.exports = {
       },
       keyframes: {
         inout: {//maybe set a negative margin until element is visible?
-          '0%': { opacity: '0', visibility: 'hidden', height: '0'},
-          '20%': { opacity: '0.5', visibility: 'visible', height: '210px'},
-          '39%': { opacity: '1', visibility: 'visible', height: '419px'},
-          '40%': { opacity: '1', visibility: 'visible', height: '419px'},
-          '60%': { opacity: '1', visibility: 'visible', height: '419px'},
-          '59%': { opacity: '1', visibility: 'hidden', height: '419px'},
+          '0%': { opacity: '0', visibility: 'hidden', height: '419px'},
+          '24%': { opacity: '0.5', height: '419px'},
+          '39%': { opacity: '1', height: '419px'},
+          '40%': { opacity: '1', visibility: 'visible'},
+          '50%': { opacity: '1', visibility: 'visible'},
+          '60%': { opacity: '1', visibility: 'visible'},
+          '74%': { opacity: '0.5', height: '419px'},
+          '98%': { opacity: '0', height: '419px'},
           '100%': { opacity: '0', visibility: 'hidden', height: '0'}
         },
         in: {
-          '0%': { opacity: '0', visibility: 'hidden', height: '0'},  
-          '50%': { opacity: '0.5', visibility: 'visible', height: '210px'},
+          '0%': { opacity: '0', visibility: 'hidden', height: '419px'},
+          '50%': { opacity: '0.5', visibility: 'visible', height: '419px'},
           '100%': { opacity: '1', visibility: 'visible', height: '419px'}   
         }
       },
