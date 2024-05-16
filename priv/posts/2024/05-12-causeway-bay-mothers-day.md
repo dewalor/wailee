@@ -9,7 +9,9 @@ Took my mom out for a walk along the Causeway Bay waterfront this weekend.  Ther
 <br/>
 We walked past quite a few stores that sold cats and pet supplies in Tian Hou.  My mom made a comment about a group of four to five cats: Don't let them be together.  She had made a similar comment while watching a TV show for kids.  She didn't seem to like seeing groups of people together either.  I haven't figured out why.
 <br/>
-There's not much grass in Victoria Park.  The best place for my mom to walk around was an exercise area paved with rubber.  She is holding up quite well and barely needs any help now.  On the way back, she noticed a tree with red flowers she called "紅影樹," a tree I know as "Flame of the Forest."  The knife-shaped legumes held my attention when I was a child.
+There's not much grass in Victoria Park.  The best place for my mom to walk around was an exercise area paved with rubber.  She is holding up quite well and barely needs any help now.  On the way back, she noticed a tree with red flowers she called "紅影樹", which can be transliterated as "red shadow tree," a tree I know as "Flame of the Forest."  The knife-shaped legumes held my attention when I was a child.
+<br/>
+![flame of the forest tree with legumes against a light swath of clouds and a half moon](/images/flame.jpg)
 <br/>
 I'm getting into the habit of checking my mom's seatbelt often.  Last week, she fell out of her wheelchair as it hit a small bump near a traffic island.  The lights were changing.  I lifted her, placed her back in her wheelchair and pushed her safely to the narrow median.  She admitted to having unbuckled her seatbelt and said she wouldn't have been able to get out otherwise.  The conversation ended there.  We were on a busy road in North Point and were lucky to have evaded vehicles from both directions.
 <br/>
