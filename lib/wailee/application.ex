@@ -9,7 +9,6 @@ defmodule Wailee.Application do
   def start(_type, _args) do
     children = [
       WaileeWeb.Telemetry,
-      {DNSCluster, query: Application.get_env(:wailee, :dns_cluster_query) || :ignore},
       {Phoenix.PubSub, name: Wailee.PubSub},
       # Start the Finch HTTP client for sending emails
       {Finch, name: Wailee.Finch},
