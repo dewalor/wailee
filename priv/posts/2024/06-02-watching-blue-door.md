@@ -5,7 +5,7 @@
 }
 ---
 <br>
-![man standing with clenched fists pointing upwards behind older seated man](/images/bluedoor.png)
+![man standing with clenched fists pointing upwards behind older seated man](/images/bluedoor.png){: style="margin-left:auto; margin-right:auto" }
 <br>
 I watched my friend and onetime collaborator Michael J. Asberry star in Tanya Barfield’s *Blue Door* at Aurora Theater. I have been trying to maintain key aspects of my life from the other side of the pond, having recently moved back from the San Francisco Bay Area. Watching Michael’s shows had been one of my priorities, and I was glad to have an opportunity to do so online, from Hong Kong.
 <br>
