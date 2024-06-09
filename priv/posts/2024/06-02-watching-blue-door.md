@@ -5,11 +5,20 @@
 }
 ---
 <br>
-![man standing with clenched fists pointing upwards behind older seated man](/images/bluedoor.png){: style="margin-left:auto; margin-right:auto" }
+![two black men reaching out to each other on either side of a double bed](/images/blue-door.jpg){: style="margin-left:auto; margin-right:auto" }
+<p style="font-size:0.7em;">
+Michael J. Asberry* and James Mercer II* in Tanya Barfield's BLUE DOOR.<br style="font-size:0.5em;">
+Directed by Darryl V. Jones.<br>
+Ray Archie, Sound Designer; Brooke Cox, Assistant Stage Manager; Cheryle Honerlah*, Stage Manager, Rehearsals; Eric Daniel Johnson, Properties; Stephanie Anne Johnson, Lighting Designer; Darryl V. Jones, Composer of Original Songs; Bibi Mama, Dialect Coach; Kitty Muntzel, Costume Designer; Scott Reardon*, Stage Manager, Performances; Hector Zavala, Scenic Designer
+<br>
+Photo by Alessandra Mellow.
+<br>
+* Actors’ Equity Association, the Union of Professional Actors and Stage Managers
+</p>
 <br>
 I watched my friend and onetime collaborator Michael J. Asberry star in Tanya Barfield’s *Blue Door* at Aurora Theater. I have been trying to maintain key aspects of my life from the other side of the pond, having recently moved back from the San Francisco Bay Area. Watching Michael’s shows had been one of my priorities, and I was glad to have an opportunity to do so online, from Hong Kong.
 <br>
-Jame Mercer II’s singing drew me in right away. **SPOILER ALERT**-- I marveled at the way Michael switched roles fluidly, and laughed out loud when he played the dean briefly, then slipped back smoothly into the role of the math professor hiding his involuntary sabbatical from his wife. The striking image of the blue door lingers. As a lifelong intercontinental migrant, I have been curious about the traditions and languages enslaved Africans carried with them. The play had me laughing and crying, observing many characters through various points in history through two actors alone. I learned a lot from the interplay of historical, social and family vectors. It was my first time hearing Michael sing, and he sang beautifully. No surprise. He started out as a voice actor.
+Jame Mercer II’s singing drew me in right away. \*\***SPOILER ALERT\*\*** I marveled at the way Michael switched roles fluidly, and laughed out loud when he played the dean briefly, then slipped back smoothly into the role of the math professor hiding his involuntary sabbatical from his wife. The striking image of the blue door lingers. As a lifelong intercontinental migrant, I have been curious about the traditions and languages enslaved Africans carried with them. The play had me laughing and crying, observing many characters through various points in history through two actors alone. I learned a lot from the interplay of historical, social and family vectors. It was my first time hearing Michael sing, and he sang beautifully. No surprise. He started out as a voice actor.
 <br>
 ![a palm tree behind a window with raindrops](/images/rainybusride.jpg)
 <br>
