@@ -16,6 +16,7 @@ A year ago, I wouldn't have given much thought to the remote control boats flyin
 ![close-up of a remote control boat in a pool lined in front of a fountain](/images/fast-boat.jpg)
 <br>
 During lunch at a dim sum restaurant, my mom suddenly got up and announced she was going to the bathroom.  We happened to be at a place where there was an accessible bathroom.  I followed her closely.  She was confused about which type of paper to use and threw a couple of paper towels in the toilet, which I wasn't able to flush.  Since I had to spot her every step of the way, we ended up leaving the toilet in a less than ideal state.
+During lunch at a dim sum restaurant, my mom suddenly got up and announced she was going to the bathroom.  We happened to be at a place where there was an accessible bathroom.  I followed her closely.  She was confused about which type of paper to use and threw a couple of paper towels in the toilet, which I wasn't able to flush.  Since I had to spot her every step of the way, we ended up leaving the toilet in a less than ideal state.
 <br>
 We got back safely to the table.  I thought lunch was going pretty well until my mom said she'd heard reports that I was a witch.  She didn't say she believed the reports.  I simply said that wasn't true, and she dropped the subject.  I never know when a comment like this is coming.  I'm just relieved when the conversation moves on.
 <br>
