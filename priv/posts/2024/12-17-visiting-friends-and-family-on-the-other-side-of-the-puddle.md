@@ -8,7 +8,7 @@ I made a last-minute decision to visit my kids in the San Francisco Bay Area dur
 <br>
 During my visit, I made sure to order delivery at least twice a week for my mom.  She'd said she couldn't eat the food at her nursing home--they keep serving fish, which she doesn't eat.  I left some ginger cookies for her in a locked drawer and gave the nurses the key.  I forwarded photos of a salmon run my kids saw and photos of me and my kids to another family member so they could show them to my mom.
 <br>
-I attended a recorder concert "Along the Milky Way" at my friends Tom Bickley and Nancy Beckman's in Berkeley.  Tom and his bandmate David Barnett gave a moving, varied and elevating performance.  Tom's ethereal touch and David's virtuosic playing complemented each other exceptionally well.
+I attended a recorder concert [**Along the Milky Way**](/images/Nov24-program.pdf) at my friends Tom Bickley and Nancy Beckman's in Berkeley.  Tom and his bandmate David Barnett gave a moving, varied and elevating performance.  Tom's ethereal touch and David's virtuosic playing complemented each other exceptionally well.
 <br>
 ![An array of ten wooden recorders of various sizes on a black zippered bag.](/images/recorders.jpg)
 <br>
@@ -55,5 +55,5 @@ Hanging out with my friend Jen, tracking down [@okkonpopup](https://www.instagra
 <br>
 This visit was restorative, with much love, generosity and creativity from family, friends, and community.
 <br>
-[Edited Jan 6 to add the list of recorders and Jen's name.]
+[Edited Jan 6 to add the list of recorders and Jen's name, and again Jan 19 to add the program.]
 
