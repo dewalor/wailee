@@ -23,6 +23,7 @@ defmodule WaileeWeb.Router do
     get "/blog/:id", BlogController, :show
     get "/art", PageController, :art
     get "/events", PageController, :events
+    get "/file/:name", FileController, :serve_file
   end
 
   # Other scopes may use custom stacks.
