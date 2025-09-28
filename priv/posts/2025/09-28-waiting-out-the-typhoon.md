@@ -22,7 +22,7 @@ Friends and family in the US were kind enough to reach out and ask me how my mom
 佢先冇出聲。
 <br>
 <br>
-Me: There’s a typhoon coming.  I won’t be visiting you for a few days.
+Me: There’s a typhoon coming.  I won’t be visiting for a few days.
 </br>
 Mom: Where are you going?
 </br>
@@ -36,7 +36,7 @@ Me: Are you being silly/crazy?  How am I going to visit you in a Signal 10 typho
 Finally, silence.  
 <br>
 <br>
-I've been struggling with what tone to use with my mom.  There's no denying I feel frustrated from time to time, especially when I feel a tinge of narcissism on her end.  I also wonder if mild shock is the best therapy.  When I went to visit her the next day, I brought her some food and told her again she wouldn't see me for a few days because of the typhoon.  She nodded.  
+I've been struggling with what tone to use with my mom.  There's no denying I feel frustrated from time to time, especially when I feel a tinge of narcissism on her end.  I also wonder if mild shock is the best therapy.  When I visited her the next day, I brought her some food and told her again she wouldn't see me for a few days because of the typhoon.  She nodded.
 <br>
 <br>
 Regasa came and went quickly.  In the end, she only endured two days without visits.
